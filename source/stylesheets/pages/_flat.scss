@@ -1,0 +1,38 @@
+#flat-description{
+  background: #F5F5F5;
+    padding: 50px 0;
+    padding-bottom: 100px;
+    font-size: 14px;
+    color: #000000;
+    i {
+      padding: 0px 10px;
+    }
+}
+
+.header-flat form {
+    margin: 20px 0;
+    margin-right: 0;
+    background: #F4F4F4;
+    padding: 15px;
+    border-radius: 3px;
+    h4 {
+      color: $orange;
+    }
+}
+
+.header-flat-owner {
+    padding: 20px;
+}
+
+.header-flat-details {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 30px;
+    padding-left: 0;
+
+  }
+
